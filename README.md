@@ -59,6 +59,22 @@ Data Cleaning • EDA • Statistics • Data Visualization • Business Analysi
 
 ## 📂 Featured Analytics Projects
 
+### 💠 H-1B Visa Sponsorship Intelligence Platform
+
+⭐ **Business Impact:** Identified optimal employers, industries, and states for H-1B sponsorship, enabling data-driven career decisions for international students using 558,618 real government records.
+
+**Project Highlights**
+- Analyzed 558,618 DOL OFLC FY2024 records across 15 SQL queries to uncover H-1B approval patterns
+- Discovered salary band is the #1 denial risk factor — below $60K approves at only 83.4% vs 93.8% above $150K
+- Built a custom H-1B Opportunity Score ranking Google (94.8), Microsoft (93.0), and Amazon (90.2) as top targets
+- Identified 15 employers with 100% approval rate across 200+ applications including Amazon, Ford, and Block Inc.
+- Delivered a 5-page interactive Power BI dashboard and a 25-page business report with 7 visualizations
+
+**Tech Used:** Python • Pandas • MySQL • SQL • Power BI • Statistics
+
+[View Repository](https://github.com/Git-Aditya-Kr/h1b-visa-sponsorship-analysis-2024)
+
+---
 
 ### 🔷 Education Performance Analytics
 
